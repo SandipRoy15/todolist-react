@@ -1,0 +1,70 @@
+.all{
+    display: block;
+    text-align: center;
+    
+
+}
+.add{
+    background-color: crimson;
+    border: black;
+    margin: 7px;
+    font-size: 30px;
+    
+    border-radius: 12px;
+
+
+}
+.input{
+    width:300px;
+    height:32px;
+    border-radius: 12px;
+    border: black;
+
+    
+}
+.mark{
+    border-radius: 12px;
+    font-size: 30px;
+    margin: 7px;
+    background-color: crimson;
+    border: black;
+    cursor: pointer;
+}
+.mark:hover{
+    background-color: white;
+    color: black;
+}
+.delete{
+    background-color: crimson;
+    border: black;
+    margin: 7px;
+    font-size: 30px;
+    cursor: pointer;
+    
+    border-radius: 12px;
+}
+.delete:hover{
+    background-color: white;
+    color: black;
+
+}
+.edit{
+    background-color: crimson;
+    cursor: pointer;
+    border-radius: 12px;
+    margin: 7px;
+    border: black;
+    font-size: 30px;
+
+}
+.edit:hover{
+    background-color: white;
+    color: black;
+
+
+}
+.display{
+    font-size: 30px;
+    color:white;
+    border-radius: 12px;
+}

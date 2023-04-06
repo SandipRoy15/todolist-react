@@ -1,0 +1,20 @@
+.App{
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  
+  /* align-items: center; */
+  
+}
+.heading{
+  color: crimson;
+  text-align: center;
+}
+body{
+  background-color:black;
+}
+.todolist{
+  margin-top: 20px;
+  
+
+}
